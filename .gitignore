@@ -1,2 +1,20 @@
-node_modules/
-.env
+**/node_modules/
+**/.env
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Build folders
+dist/
+build/
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
